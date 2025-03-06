@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+    background-color: #000;
+}
+
+
+.Panel{
+    padding: 10px;
+    background-color: #008000;
+    border-radius: 0 0 15px 15px;
+    display: flex;
+    align-items: center;
+}
+.Soucial_Media{
+    padding: 5px;
+    height: 55px;
+    transition: all .2s;
+
+}
+.Soucial_Media:hover{
+    padding: 5px;
+    height: 70px;
+    transition: all .2s;
+
+}
+.Logo{
+    height: 100px;
+    margin: auto;
+    transition: all .5s;
+
+}
+.Logo:hover{
+    rotate: 360deg;
+    
+    height: 100px;
+    margin: auto;
+    transition: all .5s;
+
+}
+.Items{
+    height: 55px;
+    padding: 5px;
+    transition: all .2s;
+
+}
+.Items:hover{
+    height: 70px;
+    transition: all .2s;
+
+}
+
+.Header{
+    color: #fff;
+    padding-left: 50px;
+
+}
+.Single_Apps{
+    padding-bottom: 50px;
+    align-items: center;
+
+}
+
+
+.Header2{
+    color: #fff;
+    padding-left: 50px;
+}
+.Apps_With_HGS_Title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.HGS_Logo{
+    width: 150px;
+    height: 150px;
+    padding-right: 50px;
+    transition: all 0.5s;
+}
+.HGS_Logo:hover{
+    color: #008000;
+    width: 170px;
+    height: 170px;
+    padding-right: 80px;
+    transition: all 0.5s;
+
+}

@@ -1,0 +1,147 @@
+body{
+    margin: 0px;
+    background-color: #000000;
+    font-family: "Calibri";
+}
+
+
+@keyframes b-r{
+    0%{
+        background-color: #008000;
+    }
+    50%{
+        background-color: #fff;
+    }
+    100%{
+        background-color: #008000;
+    }
+}
+@keyframes r-b{
+    0%{
+        background-color: #008000;
+    }
+    50%{
+        background-color: #fff;
+    }
+    100%{
+        background-color: #008000;
+    }
+}
+.Panel{
+    padding: 10px;
+    background-color: #008000;
+    border-radius: 0 0 15px 15px;
+    display: flex;
+    align-items: center;
+}
+
+.Container{
+    padding-top: 50px;
+    display: grid;
+    justify-content: center;
+    align-items: column;
+
+}
+.Header{
+    color: #fff;
+    text-align: right;
+    font-size: 50px;
+    margin: auto;
+    margin-bottom: 50px;
+
+}
+
+.GO{
+    background-color: #fff;
+    width: 500px;
+    text-align: center;
+    border-radius: 61.6px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    cursor: pointer;
+    transition: all .2s;
+
+}
+.GO:hover{
+    background-color: #008000;
+    transition: all .2s;
+
+}
+.Soucial_Media{
+    padding: 5px;
+    height: 55px;
+    transition: all .2s;
+
+}
+.Soucial_Media:hover{
+    padding: 5px;
+    height: 70px;
+    transition: all .2s;
+
+}
+.Logo{
+    height: 100px;
+    margin: auto;
+    transition: all .5s;
+
+}
+.Logo:hover{
+    rotate: 360deg;
+    
+    height: 100px;
+    margin: auto;
+    transition: all .5s;
+
+}
+
+.Items{
+    height: 55px;
+    padding: 5px;
+    transition: all .2s;
+
+}
+.Items:hover{
+    height: 70px;
+    transition: all .2s;
+
+}
+.Logo_L{
+    height: 750px;
+    width: 900px;
+}
+
+.Work{
+    display: flex;
+}
+.Buttons{
+    color: #000000;
+    text-decoration: none;
+    font-size: 50px;
+    list-style: none;
+    background-color: #fff;
+    width: 250px;
+    text-align: center;
+    border-radius: 61.6px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    cursor: pointer;
+    transition: all .2s;
+}
+.Buttons:hover{
+    background-color: #008000;
+    transition: all .2s;
+
+}
+.Buttons:active{
+    background-color: #fff;
+    
+}
+.My_Work{
+    color: #fff;
+    font-size: 50px;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}

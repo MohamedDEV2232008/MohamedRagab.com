@@ -1,0 +1,229 @@
+body{
+    margin: 0px;
+    background-color: #000;
+}
+
+/* للأجهزة الكبيرة (كمبيوتر) */
+@media screen and (min-width: 1024px) {
+    body {
+        font-size: 18px;
+    }
+}
+
+/* للأجهزة المتوسطة (تابلت) */
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+/* للأجهزة الصغيرة (موبايل) */
+@media screen and (max-width: 767px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+.Panel{
+    padding: 10px;
+    background-color: #008000;
+    border-radius: 0 0 15px 15px;
+    display: flex;
+    align-items: center;
+}
+.Soucial_Media{
+    padding: 5px;
+    height: 55px;
+    transition: all .2s;
+
+}
+.Soucial_Media:hover{
+    padding: 5px;
+    height: 70px;
+    transition: all .2s;
+
+}
+.Logo{
+    height: 100px;
+    margin: auto;
+    transition: all .5s;
+
+}
+.Logo:hover{
+    rotate: 360deg;
+    
+    height: 100px;
+    margin: auto;
+    transition: all .5s;
+
+}
+.Items{
+    height: 55px;
+    padding: 5px;
+    transition: all .2s;
+
+}
+.Items:hover{
+    height: 70px;
+    transition: all .2s;
+
+}
+
+.Header{
+    color: #ffffff;
+    padding-left: 50px;
+    margin-bottom: 50px;
+}
+.My_Work{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.Header2{
+    color: #fff;
+    padding-left: 50px;
+}
+.Games_With_HGS_Title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.HGS_Logo{
+    width: 150px;
+    height: 150px;
+    padding-right: 50px;
+    transition: all 0.5s;
+}
+.HGS_Logo:hover{
+    color: #008000;
+    width: 170px;
+    height: 170px;
+    padding-right: 80px;
+    transition: all 0.5s;
+
+}
+
+
+.Photo1{
+    background-color: #fff;
+    width: 500;
+    height: 300;
+    border-radius: 20px;
+    margin-left: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all 0.5s;
+
+
+}
+.Photo1:hover{
+    width: 550;
+    transition: all 0.5s;
+}
+.p1{
+    width: 200px;
+    height: 300px;
+    transition: all 0.5s;
+
+}
+.p1:hover{
+    width: 250px;
+    transition: all 0.5s;
+}
+.Photo2{
+    background-color: #fff;
+    width: 500;
+    height: 300;
+    border-radius: 20px;
+    margin-left: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all 0.5s;
+
+
+}
+.Photo2:hover{
+    width: 550;
+    transition: all 0.5s;
+}
+.p2{
+    width: 200px;
+    height: 300px;
+    transition: all 0.5s;
+}
+.p2:hover{
+    width: 250px;
+    transition: all 0.5s;
+}
+.Photo3{
+    background-color: #fff;
+    width: 500;
+    height: 300;
+    border-radius: 20px;
+    margin-left: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all 0.5s;
+
+
+}
+.Photo3:hover{
+    width: 550;
+    transition: all 0.5s;
+}
+.p3{
+    width: 200px;
+    height: 300px;
+    padding-bottom: 50px;
+
+    transition: all 0.5s;
+}
+.p3:hover{
+    width: 250px;
+    transition: all 0.5s;
+}
+.Photo4{
+    background-color: #fff;
+    width: 500;
+    height: 300;
+    border-radius: 20px;
+    margin-left: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all 0.5s;
+
+}
+.Photo4:hover{
+    width: 550;
+    transition: all 0.5s;
+}
+.p4{
+    width: 200px;
+    height: 300px;
+    transition: all 0.5s;
+}
+.p4:hover{
+    width: 250px;
+    transition: all 0.5s;
+}

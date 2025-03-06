@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="drawing-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.49323376"
+     inkscape:cx="404.47353"
+     inkscape:cy="816.04308"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient24"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="0"
+         id="stop24" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1;"
+         offset="1"
+         id="stop25" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24"
+       id="linearGradient25"
+       x1="146.60344"
+       y1="178.46552"
+       x2="74.724136"
+       y2="97.293106"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.8187997,-19.311329)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path17"
+       style="fill:url(#linearGradient25);fill-opacity:1;stroke:none;stroke-width:12.4975;stroke-dasharray:none;stroke-opacity:1"
+       d="m 91.681014,44.948314 c -4.197594,0 -7.576798,3.37972 -7.576798,7.577314 0,4.197594 3.379204,7.576798 7.576798,7.576798 h 10.382316 v 4.95112 c 0,0.341235 0.0249,0.676064 0.0682,1.005107 a 54.637569,54.637569 0 0 0 -47.128897,54.100577 54.637569,54.637569 0 0 0 54.638007,54.63749 54.637569,54.637569 0 0 0 54.63749,-54.63749 54.637569,54.637569 0 0 0 -47.1289,-54.100577 c 0.0433,-0.329043 0.0682,-0.663872 0.0682,-1.005107 v -4.95112 h 10.38231 c 4.1976,0 7.5768,-3.379204 7.5768,-7.576798 0,-4.197594 -3.3792,-7.577314 -7.5768,-7.577314 z m 49.981966,44.366794 c 1.01434,-0.0325 1.99117,0.2842 2.74712,0.97204 1.72786,1.57223 1.6288,4.47451 -0.22118,6.50761 L 96.583041,149.11353 c -0.347703,0.38212 -0.731911,0.70559 -1.137916,0.96842 -1.729446,1.3815 -4.239604,1.20167 -5.747969,-0.46147 L 74.734245,133.12174 c -1.569392,-1.73044 -1.440014,-4.38683 0.290422,-5.95622 1.730438,-1.56939 4.386827,-1.44002 5.956225,0.29042 l 11.933639,13.15785 45.037049,-49.495172 c 1.04061,-1.14362 2.40726,-1.76171 3.7114,-1.80351 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.995px;font-family:'Seven Segment';-inkscape-font-specification:'Seven Segment, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#00ff7e;fill-opacity:0.73333335;stroke:none;stroke-width:15.9427;stroke-dasharray:none;stroke-opacity:1"
+       x="11.778979"
+       y="214.45023"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.995px;font-family:'Seven Segment';-inkscape-font-specification:'Seven Segment, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ff7e;fill-opacity:0.73333335;stroke-width:15.9427"
+         x="11.778979"
+         y="214.45023">Time master</tspan></text>
+  </g>
+</svg>
